@@ -1,5 +1,5 @@
 # CS7641-Assignment3
-Github: https://github.com/Davis901/CS7641-Assignement2/edit/main/
+Github: https://github.com/Davis901/CS7641-Assignement3/edit/main/
 
 This project consists of two jupyter notebook processing dimentionality reduction and Clustering algorithm on two different datawet. Notebooks are turned specicifally for datasets: BC->Breast Cancer, BPL-> Bank Peronal Loan.
 
